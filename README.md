@@ -8,12 +8,12 @@ Below are a few projects that represent my work and growth as a developer.
 
 ⭐ Featured Projects ⭐
 
-1. Social Fitness App:
+1. Flash Time:
 
 A fun study app that turns flashcards into a gamified experience, encouraging engagement and competition among users. Designed interactive UI elements and implemented backend logic for scoring & progress tracking.
 Tech: JavaScript, React, Node.js, CSS
 
-2. Conway's Game of Life:
+2. Conway's Game of Life: https://github.com/FullSailGameStudies/conway-s-game-of-life-02-25-revange16
 
 Developed a simulation of Conway’s Game of Life, demonstrating principles of cellular automata and algorithmic thinking. Implemented an efficient grid system with real-time updates and rules-based evolution of cells, allowing users to visualize patterns and explore emergent behaviors.
 Tech: Java / Python, HTML/CSS
