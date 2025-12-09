@@ -18,7 +18,7 @@ Tech: JavaScript, React, Node.js, CSS
 Developed a simulation of Conway’s Game of Life, demonstrating principles of cellular automata and algorithmic thinking. Implemented an efficient grid system with real-time updates and rules-based evolution of cells, allowing users to visualize patterns and explore emergent behaviors.
 Tech: Java / Python, HTML/CSS
 
-3. Brick Breaker:
+3. Brick Breaker: https://github.com/FullSailGameStudies/bricksbreaker-chris-revange16
 
 Created a classic brick-breaker game with interactive paddle control, ball physics, and collision detection. Focused on game logic, scoring system, and responsive UI design.
 Tech: JavaScript / Java, HTML5 Canvas
