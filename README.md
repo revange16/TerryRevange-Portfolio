@@ -14,6 +14,7 @@ Below are a few projects that represent my work and growth as a developer.
 
 A fun study app that turns flashcards into a gamified experience, encouraging engagement and competition among users. Designed interactive UI elements and implemented backend logic for scoring & progress tracking.
 Tech: JavaScript, React, Node.js, CSS
+(RevangeTerry_FlashTime.png)
 
 2. Conway's Game of Life: https://github.com/FullSailGameStudies/conway-s-game-of-life-02-25-revange16
 
