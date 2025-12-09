@@ -6,9 +6,11 @@ Hi! I'm Terry Revange, a software engineer skilled in Java, JavaScript, and Type
 Below are a few projects that represent my work and growth as a developer.
 
 
+
+
 ⭐ Featured Projects ⭐
 
-1. Flash Time:
+1. Flash Time: https://github.com/Cos229-239/2025May_Team01
 
 A fun study app that turns flashcards into a gamified experience, encouraging engagement and competition among users. Designed interactive UI elements and implemented backend logic for scoring & progress tracking.
 Tech: JavaScript, React, Node.js, CSS
