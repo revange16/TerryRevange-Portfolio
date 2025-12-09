@@ -36,3 +36,7 @@ Tech: JavaScript / Java, HTML5 Canvas
 Built a fully functional calculator supporting basic arithmetic operations and error handling. Designed a clean, user-friendly interface while implementing core logic for accurate computation, input validation, and modular code structure for easy maintenance.
 
 Tech: JavaScript / Java, HTML/CSS
+
+#
+
+My Email : RevangeTerry@gmail.com
