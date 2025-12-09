@@ -29,6 +29,8 @@ Created a classic brick-breaker game with interactive paddle control, ball physi
 
 Tech: JavaScript / Java, HTML5 Canvas
 
+![BrickBreak](brickBreak.png)
+
 4. Calculator: https://github.com/FullSailGameStudies/calculator-chris-revange16
 
 Built a fully functional calculator supporting basic arithmetic operations and error handling. Designed a clean, user-friendly interface while implementing core logic for accurate computation, input validation, and modular code structure for easy maintenance.
